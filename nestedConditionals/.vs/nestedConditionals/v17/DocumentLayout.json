@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAISAL\\source\\repos\\nestedConditionals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A001355-6C53-47F3-AAFF-F19CE80180FB}|nestedConditionals.vcxproj|C:\\Users\\FAISAL\\source\\repos\\nestedConditionals\\nestedConditionals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A001355-6C53-47F3-AAFF-F19CE80180FB}|nestedConditionals.vcxproj|solutionrelative:nestedConditionals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nestedConditionals.cpp",
+              "DocumentMoniker": "C:\\Users\\FAISAL\\source\\repos\\nestedConditionals\\nestedConditionals.cpp",
+              "RelativeDocumentMoniker": "nestedConditionals.cpp",
+              "ToolTip": "C:\\Users\\FAISAL\\source\\repos\\nestedConditionals\\nestedConditionals.cpp",
+              "RelativeToolTip": "nestedConditionals.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-16T10:31:12.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
