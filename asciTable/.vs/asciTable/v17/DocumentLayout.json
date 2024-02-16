@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAISAL\\source\\repos\\asciTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C77F78-9AFF-4FDD-9DCB-7DDC36678D43}|asciTable.vcxproj|C:\\Users\\FAISAL\\source\\repos\\asciTable\\asciTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5C77F78-9AFF-4FDD-9DCB-7DDC36678D43}|asciTable.vcxproj|solutionrelative:asciTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asciTable.cpp",
+              "DocumentMoniker": "C:\\Users\\FAISAL\\source\\repos\\asciTable\\asciTable.cpp",
+              "RelativeDocumentMoniker": "asciTable.cpp",
+              "ToolTip": "C:\\Users\\FAISAL\\source\\repos\\asciTable\\asciTable.cpp",
+              "RelativeToolTip": "asciTable.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-16T06:11:07.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
