@@ -1,0 +1,5 @@
+﻿  functionOverloading.cpp
+C:\Users\FAISAL\source\repos\functionOverloading\functionOverloading.cpp(12,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FAISAL\source\repos\functionOverloading\functionOverloading.cpp(12,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FAISAL\source\repos\functionOverloading\functionOverloading.cpp(12,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  functionOverloading.vcxproj -> C:\Users\FAISAL\source\repos\functionOverloading\x64\Debug\functionOverloading.exe
