@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAISAL\\source\\repos\\argPar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBA325D-34D9-421D-BF00-1410438DF549}|argPar.vcxproj|C:\\Users\\FAISAL\\source\\repos\\argPar\\argPar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DBA325D-34D9-421D-BF00-1410438DF549}|argPar.vcxproj|solutionrelative:argPar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "argPar.cpp",
+              "DocumentMoniker": "C:\\Users\\FAISAL\\source\\repos\\argPar\\argPar.cpp",
+              "RelativeDocumentMoniker": "argPar.cpp",
+              "ToolTip": "C:\\Users\\FAISAL\\source\\repos\\argPar\\argPar.cpp",
+              "RelativeToolTip": "argPar.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T11:42:48.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
