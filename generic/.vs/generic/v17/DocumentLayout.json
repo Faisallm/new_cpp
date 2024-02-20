@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAISAL\\source\\repos\\generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD06A571-9ABD-4642-AF18-EE11E383F869}|generic.vcxproj|C:\\Users\\FAISAL\\source\\repos\\generic\\generic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD06A571-9ABD-4642-AF18-EE11E383F869}|generic.vcxproj|solutionrelative:generic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generic.cpp",
+              "DocumentMoniker": "C:\\Users\\FAISAL\\source\\repos\\generic\\generic.cpp",
+              "RelativeDocumentMoniker": "generic.cpp",
+              "ToolTip": "C:\\Users\\FAISAL\\source\\repos\\generic\\generic.cpp",
+              "RelativeToolTip": "generic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-20T11:20:27.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
