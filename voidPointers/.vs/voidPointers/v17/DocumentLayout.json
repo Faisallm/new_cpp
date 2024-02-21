@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAISAL\\source\\repos\\voidPointers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3069BB18-DC53-48EA-8E2C-3C4C3366D6FD}|voidPointers.vcxproj|C:\\Users\\FAISAL\\source\\repos\\voidPointers\\voidPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3069BB18-DC53-48EA-8E2C-3C4C3366D6FD}|voidPointers.vcxproj|solutionrelative:voidPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "voidPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\FAISAL\\source\\repos\\voidPointers\\voidPointers.cpp",
+              "RelativeDocumentMoniker": "voidPointers.cpp",
+              "ToolTip": "C:\\Users\\FAISAL\\source\\repos\\voidPointers\\voidPointers.cpp",
+              "RelativeToolTip": "voidPointers.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-21T14:21:42.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
