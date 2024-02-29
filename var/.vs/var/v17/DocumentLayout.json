@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAISAL\\source\\repos\\var\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791565E8-4D17-4063-B264-EEE292939702}|var.vcxproj|C:\\Users\\FAISAL\\source\\repos\\var\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{791565E8-4D17-4063-B264-EEE292939702}|var.vcxproj|solutionrelative:var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "var.cpp",
+              "DocumentMoniker": "C:\\Users\\FAISAL\\source\\repos\\var\\var.cpp",
+              "RelativeDocumentMoniker": "var.cpp",
+              "ToolTip": "C:\\Users\\FAISAL\\source\\repos\\var\\var.cpp",
+              "RelativeToolTip": "var.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T10:59:14.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
