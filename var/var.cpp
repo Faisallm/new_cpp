@@ -1,17 +1,18 @@
 #include <iostream>
+
+// cout and cin are part of the std namespace.
 using std::cout;
+using std::cin;
 
 int main()
 {
 
-    int slices = 5;  // declaration
+    int slices;  // declaration
+
+    cout << "Enter slices: ";
+    cin >> slices;
 
     cout << "You Have " << slices << " slices of pizza." << std::endl;
-    
-    // we are printing an integer.
-    // with cout, we don't need to specify which type the variable is.
-    // in c++ printf is gabage
-    printf("%i\n", slices);
 
 
     return 0;
